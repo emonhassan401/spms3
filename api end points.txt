@@ -1,0 +1,3 @@
+Current logged in user : http://localhost:3000/api/currentuser
+All student list : http://localhost:3000/api/student
+Specific student : http://localhost:3000/api/student/studentId
